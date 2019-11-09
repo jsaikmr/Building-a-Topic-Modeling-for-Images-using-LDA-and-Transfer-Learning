@@ -182,17 +182,8 @@ You can download the complete ipython notebook from here.
 
 ### References:
 
-	1. 
-https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
-	2. 
-https://machinelearningmastery.com/transfer-learning-for-deep-learning/
-	3. 
-https://machinelearningmastery.com/prepare-photo-caption-dataset-training-deep-learning-model/
-	4. 
-https://nlpforhackers.io/topic-modeling/
-	5. 
-https://arxiv.org/pdf/1807.03514.pdf
-
-
-
-
+	1. https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
+	2. https://machinelearningmastery.com/transfer-learning-for-deep-learning/
+	3. https://machinelearningmastery.com/prepare-photo-caption-dataset-training-deep-learning-model/
+	4. https://nlpforhackers.io/topic-modeling/
+	5. https://arxiv.org/pdf/1807.03514.pdf

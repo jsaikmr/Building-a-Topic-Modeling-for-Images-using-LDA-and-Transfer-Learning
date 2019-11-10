@@ -1,4 +1,7 @@
 # Building-a-Topic-Modeling-for-Images-using-LDA-and-Transfer-Learning
+
+Medium Blog URL : https://medium.com/@jsaikmr/building-a-topic-modelling-for-images-using-lda-and-transfer-learning-e55fcde024c6?sk=2ef12508ca9d9345a5322a203dad8f62
+
 ### Abstract:
 
 Topic modeling is a technique used to extract the hidden topics from a large volume of text. There are several algorithms used for topic modeling such as Latent Dirichlet Allocation(LDA), Latent Semantic Analysis(LSA), Non-Negative Matrix Factorization(NMF), etc. However, the challenge is to extract the topics from images. This involves both the text and the image processing to extract good quality of topics. Most of the blogs have focused on detecting topics from textual information. For a change, I wanted to extend and explore topic modeling for images. This article explains the steps involved in combining both of these processing techniques to uncover the themes from images.
@@ -161,16 +164,10 @@ The model with low log loss value and high accuracy score will provide better pr
 
 ### Future scope:
 
-	* 
-Tuning the hyperparameters of the model will help produce better results.
-	* 
-The model can be trained with Flickr30k or MS-COCO dataset for better results.
-	* 
-Try out the other topic detection algorithms like LSA, NMF, etc. and compare the results.
-	* 
-Use the pre-trained models like VGGNet19, Google's Inception, Microsoft's ResNet, etc. to achieve better accuracy
-
-
+	- Tuning the hyperparameters of the model will help produce better results.
+	- The model can be trained with Flickr30k or MS-COCO dataset for better results.
+	- Try out the other topic detection algorithms like LSA, NMF, etc. and compare the results.
+	- Use the pre-trained models like VGGNet19, Google's Inception, Microsoft's ResNet, etc. to achieve better accuracy
 
 ### Summary:
 

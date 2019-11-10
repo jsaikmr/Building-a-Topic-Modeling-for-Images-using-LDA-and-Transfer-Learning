@@ -1,6 +1,6 @@
 # Building-a-Topic-Modeling-for-Images-using-LDA-and-Transfer-Learning
 
-Medium Blog URL : https://medium.com/@jsaikmr/building-a-topic-modelling-for-images-using-lda-and-transfer-learning-e55fcde024c6?sk=2ef12508ca9d9345a5322a203dad8f62
+This repository comes with a tutorial found here in Medium.com : https://medium.com/@jsaikmr/building-a-topic-modelling-for-images-using-lda-and-transfer-learning-e55fcde024c6?sk=2ef12508ca9d9345a5322a203dad8f62
 
 ### Abstract:
 
